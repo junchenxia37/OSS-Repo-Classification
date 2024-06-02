@@ -1,0 +1,298 @@
+ERCs: Cluster 3 (Ethereum Improvement Proposals (EIPs) Management)
+GitSync: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+RIPs: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+UniversalLoginSDK: Cluster 1: Ethereum Development Tools and Libraries
+Yul-K: Cluster 12: Ethereum Research and Formal Verification
+abm1559: Cluster 6: Ethereum Simulation and Testing
+act: Cluster 12: Ethereum Research and Formal Verification
+aio-run-in-process: Cluster 1: Ethereum Development Tools and Libraries
+aleth: Cluster 4: Ethereum Client Implementations
+alethzero: Cluster 4: Ethereum Client Implementations
+alexandria: Cluster 5: Ethereum Networking and Communication
+annotated-spec: Cluster 2: Ethereum Protocol Specifications
+async-service: Cluster 1: Ethereum Development Tools and Libraries
+asyncio-cancel-token: Cluster 1: Ethereum Development Tools and Libraries
+asyncio-run-in-process: Cluster 1: Ethereum Development Tools and Libraries
+awesome-remix: Cluster 8: Solidity Programming Language and Tools
+beacon-APIs: Cluster 14: Ethereum Staking and Validator Support
+beacon-metrics: Cluster 13: Ethereum Networking Monitoring and Dashboards
+beacon_chain: Cluster 14: Ethereum Staking and Validator Support
+beaconrunner: Cluster 6: Ethereum Simulation and Testing
+bench: Cluster 6: Ethereum Simulation and Testing
+benchmarking: Cluster 6: Ethereum Simulation and Testing
+bimini: Cluster 1: Ethereum Development Tools and Libraries
+blake2b-py: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+blockies: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+bls12-381-tests: Cluster 6: Ethereum Simulation and Testing
+browser-solidity: Cluster 8: Solidity Programming Language and Tools
+btcrelay: Cluster 1: Ethereum Development Tools and Libraries
+builder-specs: Cluster 1: Ethereum Development Tools and Libraries
+c-kzg-4844: Cluster 1: Ethereum Development Tools and Libraries
+cable: Cluster 1: Ethereum Development Tools and Libraries
+casper: Cluster 14: Ethereum Staking and Validator Support
+cbc-casper: Cluster 12: Ethereum Research and Formal Verification
+clef-ui: Cluster 4: Ethereum Client Implementations
+clrfund: Cluster 15: Ethereum Ecosystem Support Programs
+common: Cluster 2: Ethereum Protocol Specifications
+consensus-deployment-ansible: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+consensus-spec-tests: Cluster 6: Ethereum Simulation and Testing
+consensus-specs: Cluster 2: Ethereum Protocol Specifications
+cpp-build-env: Cluster 4: Ethereum Client Implementations
+cpp-dependencies: Cluster 4: Ethereum Client Implementations
+cpp-dependencies-win64: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+cpp-ethash: Cluster 4: Ethereum Client Implementations
+cpp-ethereum-cmake: Cluster 4: Ethereum Client Implementations
+cryptography-research-website: Cluster 12: Ethereum Research and Formal Verification
+cryptopp: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+cthaeh: Cluster 1: Ethereum Development Tools and Libraries
+dapp-bin: Cluster 9: Ethereum Web Development
+dapp-styles: Cluster 9: Ethereum Web Development
+ddht: Cluster 5: Ethereum Networking and Communication
+deposit_contract: Cluster 2: Ethereum Protocol Specifications
+devcommon: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+devops-test-prater-redirect: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+devp2p: Cluster 5: Ethereum Networking and Communication
+diary: Cluster 10: Ethereum Education and Documentation
+discv4-crawl: Cluster 5: Ethereum Networking and Communication
+discv4-dns-lists: Cluster 5: Ethereum Networking and Communication
+distributed-validator-specs: Cluster 14: Ethereum Staking and Validator Support
+docker-pyeth-dev: Cluster 1: Ethereum Development Tools and Libraries
+dopple: Cluster 5: Ethereum Networking and Communication
+economic-modeling: Cluster 12: Ethereum Research and Formal Verification
+ecp: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+eip-review-bot: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+eip_validator: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+eipv: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+eipw: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+eipw-action: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+emacs-solidity: Cluster 8: Solidity Programming Language and Tools
+ens-namehash-py: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+ens-registrar-dapp: Cluster 9: Ethereum Web Development
+esp-website: Cluster 15: Ethereum Ecosystem Support Programs
+eth-abi: Cluster 1: Ethereum Development Tools and Libraries
+eth-account: Cluster 1: Ethereum Development Tools and Libraries
+eth-bloom: Cluster 1: Ethereum Development Tools and Libraries
+eth-enr: Cluster 1: Ethereum Development Tools and Libraries
+eth-hash: Cluster 1: Ethereum Development Tools and Libraries
+eth-keyfile: Cluster 1: Ethereum Development Tools and Libraries
+eth-keys: Cluster 1: Ethereum Development Tools and Libraries
+eth-net-intelligence-api: Cluster 13: Ethereum Networking Monitoring and Dashboards
+eth-netstats: Cluster 13: Ethereum Networking Monitoring and Dashboards
+eth-orm: Cluster 1: Ethereum Development Tools and Libraries
+eth-portal: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+eth-rlp: Cluster 1: Ethereum Development Tools and Libraries
+eth-tester: Cluster 6: Ethereum Simulation and Testing
+eth-typeshed: Cluster 1: Ethereum Development Tools and Libraries
+eth-typing: Cluster 1: Ethereum Development Tools and Libraries
+eth-utils: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+eth-wiki: Cluster 10: Ethereum Education and Documentation
+eth-wiki-test: Cluster 10: Ethereum Education and Documentation
+eth2-client-tests: Cluster 6: Ethereum Simulation and Testing
+eth2.0-onboarding: Cluster 10: Ethereum Education and Documentation
+eth2.0-pm: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+eth2.0-test-generators: Cluster 6: Ethereum Simulation and Testing
+eth2.0-tests: Cluster 6: Ethereum Simulation and Testing
+ethash: Cluster 4: Ethereum Client Implementations
+ethbot: Cluster 10: Ethereum Education and Documentation
+ethdev-site: Cluster 9: Ethereum Web Development
+ethendance: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+ethereum-binaries: Cluster 1: Ethereum Development Tools and Libraries
+ethereum-buildbot: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+ethereum-client-binaries: Cluster 4: Ethereum Client Implementations
+ethereum-console: Cluster 1: Ethereum Development Tools and Libraries
+ethereum-dockers: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+ethereum-docs: Cluster 10: Ethereum Education and Documentation
+ethereum-foundation-website: Cluster 15: Ethereum Ecosystem Support Programs
+ethereum-org: Cluster 9: Ethereum Web Development
+ethereum-org-fork: Cluster 10: Ethereum Education and Documentation
+ethereum-org-next: Cluster 9: Ethereum Web Development
+ethereum-org-website: Cluster 10: Ethereum Education and Documentation
+ethereum-ppa: Cluster 4: Ethereum Client Implementations
+ethereum-python-project-template: Cluster 1: Ethereum Development Tools and Libraries
+ethereum-react-components: Cluster 9: Ethereum Web Development
+ethereum.org: Cluster 9: Ethereum Web Development
+ethereumj: Cluster 4: Ethereum Client Implementations
+ethsim: Cluster 6: Ethereum Simulation and Testing
+evmc: Cluster 4: Ethereum Client Implementations
+evmcodegen: Cluster 1: Ethereum Development Tools and Libraries
+evmdasm: Cluster 1: Ethereum Development Tools and Libraries
+evmjit: Cluster 4: Ethereum Client Implementations
+evmlab: Cluster 1: Ethereum Development Tools and Libraries
+evmone: Cluster 4: Ethereum Client Implementations
+execution-apis: Cluster 2: Ethereum Protocol Specifications
+execution-spec-tests: Cluster 6: Ethereum Simulation and Testing
+execution-specs: Cluster 2: Ethereum Protocol Specifications
+fe: Cluster 8: Solidity Programming Language and Tools
+fellowship-program-website: Cluster 15: Ethereum Ecosystem Support Programs
+foundation-archived: Cluster 9: Ethereum Web Development
+frontier-guide: Cluster 10: Ethereum Education and Documentation
+fuzzertests: Cluster 6: Ethereum Simulation and Testing
+fv-blog: Cluster 12: Ethereum Research and Formal Verification
+gav: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+genesis_block_generator: Cluster 6: Ethereum Simulation and Testing
+geth-website: Cluster 9: Ethereum Web Development
+gethkey: Cluster 1: Ethereum Development Tools and Libraries
+glados: Cluster 13: Ethereum Networking Monitoring and Dashboards
+go-build: Cluster 4: Ethereum Client Implementations
+go-casper: Cluster 14: Ethereum Staking and Validator Support
+go-ethereum: Cluster 4: Ethereum Client Implementations
+go-verkle: Cluster 4: Ethereum Client Implementations
+grants-advisors: Cluster 15: Ethereum Ecosystem Support Programs
+grid: Cluster 1: Ethereum Development Tools and Libraries
+grid-ui: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+TurboEthereum: Cluster 4: Ethereum Client Implementations
+hevm: Cluster 12: Ethereum Research and Formal Verification
+hexbytes: Cluster 1: Ethereum Development Tools and Libraries
+hive: Cluster 6: Ethereum Simulation and Testing
+homebrew-ethereum: Cluster 1: Ethereum Development Tools and Libraries
+homestead-guide: Cluster 10: Ethereum Education and Documentation
+hunter-cache: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+interfaces: Cluster 2: Ethereum Protocol Specifications
+jenkins-docker: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+js-ethereum-cryptography: Cluster 1: Ethereum Development Tools and Libraries
+js-team-organization: Cluster 15: Ethereum Ecosystem Support Programs
+keymanager-APIs: Cluster 4: Ethereum Client Implementations
+kzg-ceremony: Cluster 12: Ethereum Research and Formal Verification
+kzg-ceremony-sequencer: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+kzg-ceremony-specs: Cluster 2: Ethereum Protocol Specifications
+kzg-ceremony-verifier: Cluster 12: Ethereum Research and Formal Verification
+lahja: Cluster 5: Ethereum Networking and Communication
+langlab: Cluster 8: Solidity Programming Language and Tools
+legacytests: Cluster 6: Ethereum Simulation and Testing
+leveldb: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+libethereum: Cluster 4: Ethereum Client Implementations
+libsnark: Cluster 12: Ethereum Research and Formal Verification
+libweb3core: Cluster 4: Ethereum Client Implementations
+libwhisper: Cluster 5: Ethereum Networking and Communication
+local-testnet: Cluster 6: Ethereum Simulation and Testing
+mantis-apache2: Cluster 4: Ethereum Client Implementations
+merge-testnet-verifier: Cluster 6: Ethereum Simulation and Testing
+meteor-dapp-catalog: Cluster 9: Ethereum Web Development
+meteor-dapp-wallet: Cluster 9: Ethereum Web Development
+meteor-dapp-whisper-chat-client: Cluster 9: Ethereum Web Development
+meteor-ethereum-networkinfo: Cluster 5: Ethereum Networking and Communication
+meteor-package-accounts: Cluster 9: Ethereum Web Development
+meteor-package-blocks: Cluster 1: Ethereum Development Tools and Libraries
+meteor-package-elements: Cluster 9: Ethereum Web Development
+meteor-package-tools: Cluster 1: Ethereum Development Tools and Libraries
+mining: Cluster 14: Ethereum Staking and Validator Support
+mist: Cluster 9: Ethereum Web Development
+mix: Cluster 1: Ethereum Development Tools and Libraries
+moon-browser: Cluster 9: Ethereum Web Development
+moon-lang: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+moon-tool: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+natspec.js: Cluster 1: Ethereum Development Tools and Libraries
+news: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+node-crawler: Cluster 13: Ethereum Networking Monitoring and Dashboards
+node-ethereum: Cluster 4: Ethereum Client Implementations
+nodemonitor: Cluster 13: Ethereum Networking Monitoring and Dashboards
+oyente: Cluster 12: Ethereum Research and Formal Verification
+plasma: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+play: Cluster 9: Ethereum Web Development
+pm: Cluster 3: Ethereum Improvement Proposals (EIPs) Management
+Populus: Cluster 1: Ethereum Development Tools and Libraries
+portal-accumulators: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+portal-blog: Cluster 9: Ethereum Web Development
+portal-hive: Cluster 6: Ethereum Simulation and Testing
+portal-network-specs: Cluster 2: Ethereum Protocol Specifications
+portal-spec-tests: Cluster 6: Ethereum Simulation and Testing
+portal-website: Cluster 10: Ethereum Education and Documentation
+pos-evolution: Cluster 12: Ethereum Research and Formal Verification
+profiling: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+public-attacknets: Cluster 14: Ethereum Staking and Validator Support
+public-disclosures: Cluster 15: Ethereum Ecosystem Support Programs
+py-evm: Cluster 4: Ethereum Client Implementations
+py-geth: Cluster 1: Ethereum Development Tools and Libraries
+py-hdwallet: Cluster 1: Ethereum Development Tools and Libraries
+py-snappy: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+py-solc: Cluster 8: Solidity Programming Language and Tools
+py-ssz: Cluster 4: Ethereum Client Implementations
+py-trie: Cluster 1: Ethereum Development Tools and Libraries
+py-wasm: Cluster 4: Ethereum Client Implementations
+py_ecc: Cluster 1: Ethereum Development Tools and Libraries
+py_pairing: Cluster 1: Ethereum Development Tools and Libraries.
+pydevp2p: Cluster 5: Ethereum Networking and Communication
+pyeth_keys: Cluster 1: Ethereum Development Tools and Libraries
+pyethapp: Cluster 4: Ethereum Client Implementations
+pyethereum: Cluster 4: Ethereum Client Implementations
+pyethsaletool: Cluster 7: Centralized Management and Deployment Tools for Ethereum
+pyrlp: Cluster 1: Ethereum Development Tools and Libraries
+pytest-asyncio-network-simulator: Cluster 6: Ethereum Simulation and Testing
+pytest-ethereum: Cluster 6 (Ethereum Simulation and Testing)
+rayonism: Cluster 2: Ethereum Protocol Specifications
+remix: Cluster 8: Solidity Programming Language and Tools
+remix-desktop: Cluster 8: Solidity Programming Language and Tools
+remix-ide: Cluster 10: Ethereum Education and Documentation
+remix-live: Cluster 8: Solidity Programming Language and Tools
+remix-live-alpha: Cluster 8: Solidity Programming Language and Tools
+remix-live-beta: Cluster 8: Solidity Programming Language and Tools
+remix-plugin: Cluster 8: Solidity Programming Language and Tools
+remix-plugins-directory: Cluster 8: Solidity Programming Language and Tools
+remix-project: Cluster 8: Solidity Programming Language and Tools
+remix-tests: Cluster 6: Ethereum Simulation and Testing
+remix-theia: Cluster 8: Solidity Programming Language and Tools
+remix-vscode: Cluster 8: Solidity Programming Language and Tools
+remix-website: Cluster 9: Ethereum Web Development
+remix-workshops: Cluster 10: Ethereum Education and Documentation
+remixd: Cluster 8: Solidity Programming Language and Tools
+Remote-signing-api: Cluster 14: Ethereum Staking and Validator Support
+requests-for-proposals: Cluster 15: Ethereum Ecosystem Support Programs
+research: Cluster 12: Ethereum Research and Formal Verification
+retesteth: Cluster 6: Ethereum Simulation and Testing
+rig: Cluster 12: Ethereum Research and Formal Verification
+ropsten: Cluster 6: Ethereum Simulation and Testing
+rpc-tests: Cluster 6: Ethereum Simulation and Testing
+scavenger_hunt: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+Secure-drop: Cluster 9: Ethereum Web Development
+serpent: Cluster 8: Solidity Programming Language and Tools
+serpent-go: Cluster 1: Ethereum Development Tools and Libraries
+sharding: Cluster 4: Ethereum Client Implementations
+simplecasper: Cluster 14: Ethereum Staking and Validator Support
+snake-charmers-blog: Cluster 10: Ethereum Education and Documentation
+snake-charmers-tactical-manual: Cluster 1: Ethereum Development Tools and Libraries
+solc-bin: Cluster 8: Solidity Programming Language and Tools
+solc-js: Cluster 8: Solidity Programming Language and Tools.
+solidity: Cluster 8
+solidity-blog: Cluster 8: Solidity Programming Language and Tools
+solidity-buildpack-deps: Cluster 8: Solidity Programming Language and Tools
+solidity-examples: Cluster 8: Solidity Programming Language and Tools
+solidity-fuzzing-corpus: Cluster 8: Solidity Programming Language and Tools
+solidity-portal: Cluster 8: Solidity Programming Language and Tools
+solidity-summit: Cluster 9: Ethereum Web Development
+solidity-test-bytecode: Cluster 6: Ethereum Simulation and Testing
+solidity-underhanded-contest: Cluster 8: Solidity Programming Language and Tools
+solidity-website: Cluster 9: Ethereum Web Development
+solidity.js: Cluster 8: Solidity Programming Language and Tools
+sourcify: Cluster 8: Solidity Programming Language and Tools
+ssv: Cluster 14: Ethereum Staking and Validator Support
+stake-voice: Cluster 14: Ethereum Staking and Validator Support
+staking-deposit-cli: Cluster 14: Ethereum Staking and Validator Support
+staking-launchpad: Cluster 14: Ethereum Staking and Validator Support
+statesweep: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+swarm-dapps: Cluster 9: Ethereum Web Development
+system-testing: Cluster 6: Ethereum Simulation and Testing
+test-tools: Cluster 6: Ethereum Simulation and Testing
+testeth: Cluster 6: Ethereum Simulation and Testing
+testng: Cluster 6: Ethereum Simulation and Testing
+tests: Cluster 6: Ethereum Simulation and Testing
+tlsnotary-old-website: Cluster 11: Miscellaneous Ethereum Tools and Utilities
+trin: Cluster 5: Ethereum Networking and Communication
+trinity: Cluster 4: Ethereum Client Implementations
+trinity-eth2: Cluster 4: Ethereum Client Implementations
+trinity-web: Cluster 9: Ethereum Web Development
+trio-run-in-process: Cluster 6: Ethereum Simulation and Testing
+tryethereum: Cluster 9: Ethereum Web Development
+twig: Cluster 1: Ethereum Development Tools and Libraries
+upnp-port-forward: Cluster 5: Ethereum Networking and Communication
+utp: Cluster 5: Ethereum Networking and Communication
+verkle-dev-website: Cluster 10: Ethereum Education and Documentation
+vim-solidity: Cluster 8: Solidity Programming Language and Tools
+web3.py: Cluster 1: Ethereum Development Tools and Libraries
+webthree: Cluster 4: Ethereum Client Implementations
+webthree-helpers: Cluster 4: Ethereum Client Implementations
+webthree-umbrella: Cluster 4: Ethereum Client Implementations
+whisper: Cluster 5: Ethereum Networking and Communication
+wiki: Cluster 10: Ethereum Education and Documentation
+www: Cluster 9: Ethereum Web Development
+yellowpaper: Cluster 2: Ethereum Protocol Specifications
+yul-isabelle: Cluster 12: Ethereum Research and Formal Verification
