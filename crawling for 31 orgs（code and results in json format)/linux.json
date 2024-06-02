@@ -1,0 +1,16 @@
+[
+    {
+        "name": "linux",
+        "description": "Linux kernel source tree",
+        "language": "C",
+        "readme": "Linux kernel\n============\n\nThere are several guides for kernel developers and users. These guides can\nbe rendered in a number of formats, like HTML and PDF. Please read\nDocumentation/admin-guide/README.rst first.\n\nIn order to build the documentation, use ``make htmldocs`` or\n``make pdfdocs``.  The formatted documentation can also be read online at:\n\n    https://www.kernel.org/doc/html/latest/\n\nThere are various text files in the Documentation/ subdirectory,\nseveral of them using the reStructuredText markup notation.\n\nPlease read the Documentation/process/changes.rst file, as it contains the\nrequirements for building and running the kernel, and information about\nthe problems which may result by upgrading your kernel.",
+        "license": {
+            "key": "other",
+            "name": "Other",
+            "spdx_id": "NOASSERTION",
+            "url": null,
+            "node_id": "MDc6TGljZW5zZTA="
+        },
+        "release_dates": []
+    }
+]
